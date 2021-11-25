@@ -1,0 +1,50 @@
+.counter{
+    display: flex;
+    gap: 15px;
+    text-align: center;
+    margin-top: 20px;
+    margin-left: 10px;
+    height: 300px;
+    background-color: aliceblue;
+    align-items: center;
+    justify-content: center;
+}
+
+.counter > div {
+    margin-top: 20px;
+}
+
+.counter > div > div> label, 
+.counter > strong { 
+    font-size: 150px;
+}
+
+.counter > strong {
+    margin-top: 5px;
+}
+
+.time-value {
+    width: 240px;
+    box-sizing: border-box;
+    -moz-box-sizing: border-box;
+    -webkit-box-sizing: border-box;
+    border: 4px solid #969696;
+    padding: 5px;
+    border-radius: 45px;
+}
+
+.time-buttons > button{
+    justify-content: center;
+    margin-top: 10px;
+    border: none;
+    background-color: aliceblue;
+    color:gray;
+
+}
+
+.inc:hover{
+    color: green
+}
+.dec:hover {
+    color: red
+}

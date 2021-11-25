@@ -1,3 +1,14 @@
+# App screen shot 
+
+
+![me](./screenShot.png)
+
+# Description
+
+- You can see BTC price every 3 seconds
+- You can change time with increment and decrement buttons when you mouse over the time unit
+- For every update BTC img change color with little animation.   
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
