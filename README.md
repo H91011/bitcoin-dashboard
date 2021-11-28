@@ -8,7 +8,6 @@
 - You can see BTC price every 3 seconds
 - You can change time with increment and decrement buttons when you mouse over the time unit
 - For every update BTC img change color with little animation.   
-- 
 
 # Getting Started with Create React App
 
